@@ -7,8 +7,3 @@
 /.gdignore          export-ignore
 /LICENSE.md         export-ignore
 /README.md          export-ignore
-/default_env.tres   export-ignore
-/project.godot      export-ignore
-/icon.png*          export-ignore
-/data               export-ignore
-/demo               export-ignore
